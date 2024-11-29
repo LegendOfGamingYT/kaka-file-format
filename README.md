@@ -1,2 +1,2 @@
-# File Format
-The file format is kaka. We are trying to make it the default notepad file format.
+# How to use it
+If your on Windows, double click the .kaka file and then click on notepad then click on always.
